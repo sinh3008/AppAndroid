@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppBanHang</string>
+    <string name="tensp">Tên sản phẩm</string>
+    <string name="giasp">Giá: 25 000 000 đ</string>
+    <string name="themvaogiohang">Thêm vào giỏ hàng</string>
+    <string name="motasp">Mô tả sản phẩm</string>
+    <string name="giohang">Giỏ Hàng</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="password_login">Password</string>
+    <string name="email_login">Email</string>
+    <string name="txtchuacotk">Bạn chưa có tài khoản sao ?</string>
+    <string name="txtcotk">Bạn đã có tài khoản sao ?</string>
+    <string name="txtdangkyngaynao">Đăng ký ngay</string>
+    <string name="txtdangnhapngaynao">Đăng nhập ngay</string>
+</resources>
